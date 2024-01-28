@@ -1,0 +1,64 @@
+.centersign{
+  text-align: center;
+  color: white;
+  display: flex;
+  margin-top: 15vh;
+  border-style: solid;
+  width: 50vh;
+  height: 40vh;
+}
+label{
+  display: flex;
+}
+.p12{
+  border-style: solid;
+  border-radius: 8px;
+  border-color:chocolate;
+  background-color: chocolate;
+  width: 40vh;
+  margin-left: 5vh;
+}
+.mobile{
+  border-style: solid;
+  border-radius: 8px;
+  border-color: chocolate;
+  background-color: chocolate;
+  width: 40vh;
+  margin-left: 5vh;
+  margin-top: 1vh;
+}
+.ipa{
+  border-style: solid;
+  border-radius: 8px;
+  border-color: chocolate;
+  background-color: chocolate;
+  width: 40vh;
+  margin-left: 5vh;
+  margin-top: 1vh;
+}
+.custom-file-input{
+  display: none;
+}
+.p12passlabel{
+  text-decoration: underline;
+  margin-left: 13vh;
+}
+.button{
+  display: flex;
+  font-size: 5vh;
+  background-color: chocolate;
+  border-radius: 8px;
+  padding-left: 20vh;
+  width: 50vh;
+  margin-top: 3vh;
+}
+.button:active{
+  background-color: chocolate;
+  margin-top: 4vh;
+}
+.button:hover{
+  background-color: rgb(255, 106, 0);
+}
+.main{
+  height: 120vh;
+}
